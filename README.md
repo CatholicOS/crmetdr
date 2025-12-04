@@ -51,3 +51,35 @@ new editions of the ***Missale Romanum*** were promulgated by Popes for use in t
 | 1975                | Editio typica secunda | Pope Paul VI      |                                                                                                                                                                          |
 | 2002                | Editio typica tertia  | Pope John Paul II |                                                                                                                                                                          |
 | 2008                | Reimpressio emendata  | Pope Benedict XVI |                                                                                                                                                                          |
+
+## Proposed canonical ids
+
+| long form              | short form   |
+|------------------------|--------------|
+| `missale_romanum_1474` | `mr1474`     |
+| `missale_romanum_1570` | `mr1570`     |
+| `missale_romanum_1604` | `mr1604`     |
+| `missale_romanum_1634` | `mr1634`     |
+| `missale_romanum_1884` | `mr1884`     |
+| `missale_romanum_1920` | `mr1920`     |
+| `missale_romanum_1957` | `mr1957`     |
+| `missale_romanum_1962` | `mr1962`     |
+| `missale_romanum_1970` | `mr1970`     |
+| `missale_romanum_1971` | `mr1971`     |
+| `missale_romanum_1975` | `mr1975`     |
+| `missale_romanum_2002` | `mr2002`     |
+| `missale_romanum_2008` | `mr2008`     |
+
+Seeing that starting with the Second Vatican Council, the liturgy has been celebrated in the vernacular,
+translations of the Roman Missal into various languages have been undertaken by various Bishops Conferences.
+Considering that these translations generally have value on a national  or "wider region" level,
+the question is whether they can be identified using BCP47 language tags or similar.
+
+For example, the English edition of the Roman Missal published in the United States in the year 2011
+could be identified as `missale_romanum_2011_en_US` | `mr2011_en_US`. And an eventual Spanish version
+of the same could be identified as `missale_romanum_XXXX_es_US` | `mrXXXX_es_US`.
+However consideration will need to be taken to identify the actual current use cases, for example:
+
+- do the Spanish speaking countries of Central / South America each publish their own language edition of the Roman Missal?
+- does CELAM publish a single language edition of the Roman Missal, and each country / diocese adapts on a practical level
+  when publishing the liturgical Ordo?
