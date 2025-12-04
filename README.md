@@ -38,7 +38,7 @@ new editions of the ***Missale Romanum*** were promulgated by Popes for use in t
 
 | Year of publication | status                | Reigning Pope     | Description                                                                                                                                                              |
 |---------------------|-----------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1474                |   –                   | Pope Sixtus IV    | The first book bearing the name ***Missale Romanum*** was publisehd 34 years after the invention of the printing press by Johannes Gutenberg (1440).                     |
+| 1474                |   –                   | Pope Sixtus IV    | The first book bearing the name ***Missale Romanum*** was published 34 years after the invention of the printing press by Johannes Gutenberg (1440).                     |
 | 1570                |   –                   | Pope Pius V       | Promulgated after the Council of Trent, obligatory throughout the Latin Church (except in cases where another rite had been in place for at least 200 years).            |
 | 1604                |   –                   | Pope Clement VIII |                                                                                                                                                                          |
 | 1634                |   –                   | Pope Urban VIII   |                                                                                                                                                                          |
